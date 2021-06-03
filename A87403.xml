@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull nevves from Nevvcastle. Being a true relation of the proceedings, of the Right Honourable the Earle of Pembroke, and the rest of the Commissioners with the Kings most excellent Majestie at Newcastle. Also, the proceedings of the Scottish Commissioners, and their delivery of the King to the Parliament of England, accompanied by the Lord Lowdon, and the Lord Belcarris, towards his princely throne at London.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87403</idno><idno type="EEBO-CITATION">99861849</idno>
+  <idno type="VID">113994</idno>
+  <idno type="EEBO-PROQUEST">2240956808</idno>
+  
+            <idno type="STC">Wing J1139</idno>
+            <idno type="STC">Thomason E373_4</idno>
+            <idno type="STC">ESTC R201325</idno>
+            <idno type="PROQUEST">99861849</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861849e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113994)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E373[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull nevves from Nevvcastle. Being a true relation of the proceedings, of the Right Honourable the Earle of Pembroke, and the rest of the Commissioners with the Kings most excellent Majestie at Newcastle. Also, the proceedings of the Scottish Commissioners, and their delivery of the King to the Parliament of England, accompanied by the Lord Lowdon, and the Lord Belcarris, towards his princely throne at London.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B, A.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>February 1. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113994:1"/>
+            <pb facs="tcp:113994:1"/>
+            <p> JOYFVLL NEVVES FROM NEVVCASTLE BEING A true Relation of the proceedings, of the Right Honourable the Earle of <hi>Pembroke,</hi> and the rest of the Commissioners with the Kings most ex<g ref="char:EOLhyphen"/>cellent Majestie at Newcastle.</p>
+            <p>ALSO, The Proceedings of the Scottish Commissioners, and their delivery of the King to the Parliament of England, accompanied by the Lord <hi>Lowdon,</hi> and the Lord <hi>Belcarris,</hi> towards his Princely throne at <hi>London.</hi>
+            </p>
+            <p>Printed for <hi>B, A.</hi> February 1. 1646</p>
+            <pb facs="tcp:113994:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113994:2"/>
+            <head>A TRVE RELATION OF The Proceedings of the Parliaments Commissioners at Newcastle.</head>
+            <p>THE distempered Waves in the North begins to seem somwhat calm, and the raging Billowes of the Malignants in some measure appeased; for, their ambitious spi<g ref="char:EOLhyphen"/>rits can no longer be bolstered up to act and contrive new stratagems; insomuch, that their
+<pb facs="tcp:113994:3"/> high-soring thoughts are even at the lowest ebbe, &amp; their long plotted stratagems over<g ref="char:EOLhyphen"/>whelmed by the powerfull streames of ami<g ref="char:EOLhyphen"/>ty; and although there is too many that do dayly act and endeavour to raise bubbles in the pure streames, and turn the gallant in<g ref="char:EOLhyphen"/>fluence of those putrified Waters, into mud<g ref="char:EOLhyphen"/>dy and unsavory waters, by endeavouring to break the force, and cut a channel, for the in<g ref="char:EOLhyphen"/>termixing of severall distempered brookes, with this wholesome and Kingdom saving Water.</p>
+            <p>But alas all in vain, for the gallant con<g ref="char:EOLhyphen"/>currence of the Estates of both Kingdomes, doth appear in such a full lustre, that all mi<g ref="char:EOLhyphen"/>stie Clouds are dissolved; for the Commis<g ref="char:EOLhyphen"/>sioners of Scotland have expressed them<g ref="char:EOLhyphen"/>selves gallantly unto the Fnglish Com<g ref="char:EOLhyphen"/>missioners, shewing their great forwardnesse, to comply with them, &amp; expedite the busi<g ref="char:EOLhyphen"/>nesse, for which they came about, being resol<g ref="char:EOLhyphen"/>ved, not to adhere (in the least) to any par<g ref="char:EOLhyphen"/>ticular that shal proved prejudicial to either Kingdoms; and therefore, doe freely assent and concur with them that his Majesty shal come to Holmby house, or any other place
+<pb facs="tcp:113994:3"/> that the Parliament of England shall make choice of, and there continue untill he shall subscribe unto the Propositions.</p>
+            <p>And it is likewise declared from the Par<g ref="char:EOLhyphen"/>liament of Scotland, that they desire there may be a Committee of both Kingdoms con<g ref="char:EOLhyphen"/>stantly to attend his Majesty, to use their ut<g ref="char:EOLhyphen"/>most endeavours for perswading of his Maj. to passe the Propositions, and to advance the union betwixt both Kingdoms. Further in<g ref="char:EOLhyphen"/>timating their desires, that those who shall be employed on the businesse of State from that Kingdom may have due accesse unto his Majesty, after their resigning of Him up to the Parliament of England; desiring also, Brotherly assistance against al foes domestick or forraign, and particularly, against those barbarous Rebels now in their Kingdome.</p>
+            <p>The Scots are now upon their march, &amp; will deliver all the English Garrisons to Major Generall Skippon, for the particulars whereof, I shall referre you to this ensuing Letter.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:113994:4"/>
+                  <head>A Letter sent from a Gentleman in the North, to a friend of his in London intimating the proceedings of the Scottish Army upon their departure from England.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>WEE have payd the first 100000. <hi>l.</hi> at this Town, and the Scots received it with no greater convoy, then of fourteen Horse. This day we received the Townes of Hartlepoole and Stockton, wberein the Scots had Garisons, and on Saturday next, the whole Scots forces will be over Tyne, and Newcastle, and the Castle of Tinmouth will that day be possessed by us, and I am confident the Scots wil fairly compound with us in all other things. The Malignant party in Scotland cannot prelaile, so the King is sur<g ref="char:EOLhyphen"/>prised and mistaken in his designe. But since the Scottish Parliament holds right▪ they have no opportunity to shew themselves for the King,
+<pb facs="tcp:113994:4"/> though many be sufficiently malignant, and hugely vitious.</p>
+                  <closer>
+                     <dateline>Nor<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hall<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rton <date>Ian. 26 <gap reason="illegible" resp="#murp" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>
+                        </date>
+                     </dateline> The King will be delivered to our Commissioners very sodainly.</closer>
+               </body>
+            </floatingText>
+            <p>Letters were presented to the House of Commons coming from beyond Sea, which tell of strange sto<g ref="char:EOLhyphen"/>ries, how true wee know nor, but the relation comes from a good hand.</p>
+            <p>One is a letter from Poland, speaking plainly that the great Assembly or Parliament of that Kingdome have put their King under restraint for raising of for<g ref="char:EOLhyphen"/>ces without their consent.</p>
+            <p>That they told him freely in open Parliament, he had forfeited his Crown, and that all his subjects are thereby discharged of their Allegeance, and are not to be furrher subject to his commands, That they have commanded the Kings Seal not to be any longer used and raised a Guard of twelve hundred to attend the King, and keep the Kingdom in Peace.</p>
+            <p>One cause of the difference between the King of Po<g ref="char:EOLhyphen"/>land and his subjects, is said to be, his endeavor to con<g ref="char:EOLhyphen"/>tinue a warre contrary to the advice of the States and Councel of that Kingdom, and against the mind of the Lord Marshall.</p>
+            <p>We shall now conclude with what we have last from
+<pb facs="tcp:113994:5"/> the North from whence is our greatest expectations of Newes as affaires stand. The money is gone from York Northalerton is 22 miles beyond, where the first hundred thousand pound is paid, Our Commissioners are come to Newcastle, and faire congratulations be<g ref="char:EOLhyphen"/>tween the Commissioners of Scotland and them, and some Conference.</p>
+            <p>They also apply themselves to his Majesty, who seemes to be hardly perswaded to come to Holmby house: what wil follow, few dayes will evidence: but our Commissioners being newly come thither, it could now produce little, ex<g ref="char:EOLhyphen"/>cept what is before related.</p>
+            <p>
+               <hi>I</hi> had almost forgot one passage of note, <hi>viz.</hi> that before the Commissioners appointed to receive the King went from London, the Parliament took into consideration the sending down of certain of his Majesties servants for his better ac<g ref="char:EOLhyphen"/>comodation to Holmby, and have voted these, <hi>viz.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Mr. Maub</item>
+                     <item>Mr. Maxwel</item>
+                     <item>Mr. T. Harbert</item>
+                     <item>Mr. Austley</item>
+                     <item>Sir Folk Grevil</item>
+                     <item>Capt. Anth. Mildmay</item>
+                     <item>Capt. Middleton</item>
+                     <item>D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>▪ Wilson</item>
+                     <item>Sir James Thorowood.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
